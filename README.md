@@ -1,7 +1,7 @@
 # Hello, I'm Hannan! 👋
 
-[![Linkedin: azhanhannan]([https://img.shields.io/badge/-azhan-hannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azhan-hannan/)](https://www.linkedin.com/in/azhan-hannan/)
-[![GitHub followers](https://img.shields.io/github/followers/azhan-hannan?label=Follow&style=social)](https://github.com/yourusername)
+[![Linkedin: azhanhannan]([https://img.shields.io/badge/azhan-hannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azhan-hannan/)](https://www.linkedin.com/in/azhan-hannan/)
+[![GitHub followers](https://img.shields.io/github/followers/azhan-hannan?label=Follow&style=social)](https://github.com/azhan-hannan)
 
 I'm a programmer with 2 years of experience in Laravel and currently diving into .NET while undergoing DevOps training. I'm passionate about learning new technologies and enjoy playing badminton in my free time. Welcome to my GitHub profile!
 

@@ -16,6 +16,7 @@ I'm a programmer with 2 years of experience in Laravel and currently diving into
 
 ## 🌱 I'm Currently Learning
 
+- Laravel
 - .NET
 - DevOps Practices
 

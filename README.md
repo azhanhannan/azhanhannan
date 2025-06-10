@@ -22,6 +22,7 @@ I'm a programmer with 2 years of experience in Laravel. Learning is my passion. 
 
 ## 🏸 Other Interests
 
+- Running, sometimes walking..
 - Playing Badminton
 
 ## 📫 How to Reach Me
